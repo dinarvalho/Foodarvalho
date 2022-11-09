@@ -49,20 +49,12 @@
               <Component id="BtnVoltar" alignment="0" max="32767" attributes="0"/>
               <Component id="BtnEntrar" alignment="0" max="32767" attributes="0"/>
               <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="150" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="150" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="LblSenha" min="-2" max="-2" attributes="0"/>
-                              <Component id="TxtNome" min="-2" pref="300" max="-2" attributes="0"/>
-                              <Component id="LblNome" min="-2" max="-2" attributes="0"/>
-                              <Component id="PwSenha" alignment="0" min="-2" pref="300" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="263" max="-2" attributes="0"/>
-                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
-                      </Group>
+                      <Component id="LblSenha" min="-2" max="-2" attributes="0"/>
+                      <Component id="TxtNome" min="-2" pref="300" max="-2" attributes="0"/>
+                      <Component id="LblNome" min="-2" max="-2" attributes="0"/>
+                      <Component id="PwSenha" alignment="0" min="-2" pref="300" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace pref="150" max="32767" attributes="0"/>
               </Group>
@@ -79,9 +71,7 @@
                   <Component id="LblSenha" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="PwSenha" min="-2" pref="25" max="-2" attributes="0"/>
-                  <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
-                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="101" max="32767" attributes="0"/>
+                  <EmptySpace pref="172" max="32767" attributes="0"/>
                   <Component id="BtnEntrar" min="-2" pref="85" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="BtnVoltar" min="-2" pref="85" max="-2" attributes="0"/>
@@ -166,11 +156,6 @@
               <Font name="Tahoma" size="18" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Senha"/>
-          </Properties>
-        </Component>
-        <Component class="javax.swing.JLabel" name="jLabel1">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="VSDvwsdvw"/>
           </Properties>
         </Component>
       </SubComponents>
